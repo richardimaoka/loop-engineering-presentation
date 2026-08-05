@@ -28,11 +28,12 @@
 
 **Slide 4 — AIは飛躍的に長時間タスクをこなせるようになった**
 - Julian Schrittwieser「Failing to Understand the Exponential, Again」
-- ベンチマーク例：Humanity's Last Exam
+- METRの調査：AIが完了できるタスクの所要時間（タイムホライズン）が数ヶ月ごとに倍増
 - （視覚：右肩上がりのタスク遂行時間グラフのイメージ）
 
-**Slide 5 — 鍵はReasoningモデル**
-- 途中経過を自己チェック → 自己軌道修正
+**Slide 5 — 鍵はReasoningモデル（＋複数の要因）**
+- 途中経過を自己チェック → 自己軌道修正（Reasoningモデル）
+- 加えて：検証可能な報酬によるRL学習／ツール呼び出し基盤／コンテキスト長拡大
 - 「長いプロンプトを理解できる」ようになった話ではない
 - 本質は"軌道修正能力"
 
