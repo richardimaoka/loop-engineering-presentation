@@ -25,6 +25,10 @@
 - Prompt Engineering → Context Engineering → Harness Engineering → Loop Engineering
 - 図解：矢印でつながる4段階の進化
 - （視覚：横一列の進化ステップ図）
+- 出典として Addy Osmani を紹介する
+  - 「Addy Osmaniって誰？」を一言で：Google Chromeチームのエンジニアで、開発生産性・AI開発ツールについての発信で知られる人物
+  - 目的は明確に権威付け：「あのAddy Osmaniが言ってるんだぞ」で説得力を持たせる
+  - 聴衆の期待値：「ほえー、耳慣れないけど、そんなすごい人が言ってる進化論があるなら、そうかもしれないねえ」
 
 **Slide 4 — AIは飛躍的に長時間タスクをこなせるようになった**
 - Julian Schrittwieser「Failing to Understand the Exponential, Again」
@@ -133,6 +137,7 @@
 - AIが進化すれば、今は探索的な問題も将来は一撃で解けるかもしれない
 - しかし人は新しい難問を見つけ続ける
 - 技術的ブレークスルーが前提を変え、再び探索的な問題に戻ることもある
+- これは冒頭のPrompt→Context→Harness→Loopという"一本道"自体にも当てはまる（＝いつか疑われ、塗り替えられうる）
 
 **Slide 22 — 前半のまとめ**
 - 長く走るAI：ハーネス／ループ・エンジニアリングで鍛えられる
