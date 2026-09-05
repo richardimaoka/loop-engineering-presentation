@@ -49,5 +49,53 @@
     "url": "https://arxiv.org/abs/2501.12948",
     "published": "2025-01-22",
     "context": "few-shotプロンプトがR1の性能を下げ、ゼロショットで問題をそのまま提示した方が良い結果になると報告"
+  },
+  {
+    "id": "wei-cot-2022",
+    "author": "Jason Wei et al. (Google)",
+    "title": "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models",
+    "url": "https://arxiv.org/abs/2201.11903",
+    "published": "2022-01-28",
+    "context": "Chain of Thoughtプロンプティングの原典"
+  },
+  {
+    "id": "openai-o1-2024",
+    "author": "OpenAI",
+    "title": "Learning to Reason with LLMs",
+    "url": "https://openai.com/index/learning-to-reason-with-llms/",
+    "published": "2024-09-12",
+    "context": "o1の発表。モデルに応答前の長い内部思考過程を訓練させることで推論能力を高めるという転換点"
+  },
+  {
+    "id": "zhang-agentic-rl-survey-2025",
+    "author": "Guibin Zhang et al.",
+    "title": "The Landscape of Agentic Reinforcement Learning for LLMs: A Survey",
+    "url": "https://arxiv.org/abs/2509.02547",
+    "published": "2025-09-02",
+    "context": "500本以上の関連研究を整理し、1ステップで完結する従来のLLM-RLと、複数ステップにわたる部分観測環境として捉えるAgentic RLを対比して定義を試みたサーベイ"
+  },
+  {
+    "id": "addy-osmani-harness-2026",
+    "author": "Addy Osmani",
+    "title": "Agent Harness Engineering",
+    "url": "https://addyosmani.com/blog/agent-harness-engineering/",
+    "published": "2026-04-19",
+    "context": "コーディングエージェントの実力はモデルそのものよりハーネス（プロンプト・ツール・フック・サンドボックス・フィードバックループ）で決まるという議論"
+  },
+  {
+    "id": "addy-osmani-loop-2026",
+    "author": "Addy Osmani",
+    "title": "Loop Engineering",
+    "url": "https://addyosmani.com/blog/loop-engineering/",
+    "published": "2026-06-07",
+    "context": "人がプロンプトを打つ代わりに、AIを自律的に動かし続けるループを設計するという議論。Claude Code責任者Boris Chernyの「I don't prompt Claude anymore. I have loops running that prompt Claude」という発言を紹介"
+  },
+  {
+    "id": "deepmind-alphaproof-2024",
+    "author": "Google DeepMind",
+    "title": "AI achieves silver-medal standard solving International Mathematical Olympiad problems",
+    "url": "https://deepmind.google/blog/ai-solves-imo-problems-at-silver-medal-level/",
+    "published": "2024-07-25",
+    "context": "AlphaProof/AlphaGeometry 2がIMOで銀メダル相当のスコア。RL+探索でコーディング以外の領域でも「長く考える」パラダイムが効いた例"
   }
 ]
