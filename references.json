@@ -1,0 +1,53 @@
+[
+  {
+    "id": "julian-2025",
+    "author": "Julian Schrittwieser",
+    "title": "Failing to Understand the Exponential, Again",
+    "url": "https://www.julian.ac/blog/2025/09/27/failing-to-understand-the-exponential-again/",
+    "published": "2025-09-27",
+    "context": "AIが指数関数的に長時間のタスクをこなせるようになったという指摘"
+  },
+  {
+    "id": "metr-2025",
+    "author": "METR (Model Evaluation & Threat Research)",
+    "title": "Measuring AI Ability to Complete Long Software Tasks",
+    "url": "https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/",
+    "published": "2025-03-19",
+    "context": "AIが50%の確率で完了できるタスクの所要時間（タイムホライズン）が数ヶ月ごとに倍増しているという調査"
+  },
+  {
+    "id": "openai-gdpval-2025",
+    "author": "OpenAI",
+    "title": "GDPval: Measuring the performance of our models on real-world tasks",
+    "url": "https://openai.com/index/gdpval/",
+    "published": "2025-09-25",
+    "context": "長いプロンプトが境界条件を定義する例として引用"
+  },
+  {
+    "id": "x-enhanced_jp",
+    "author": "@enhanced_jp (X)",
+    "url": "https://x.com/enhanced_jp/status/2090018099378749764",
+    "context": "プロンプト〜ループ・エンジニアリングという“一本道”が今後疑われる可能性についての言及"
+  },
+  {
+    "id": "x-lennysan",
+    "author": "@lennysan (X)",
+    "url": "https://x.com/lennysan/status/2089117846563590452",
+    "context": "同上"
+  },
+  {
+    "id": "openai-reasoning-best-practices",
+    "author": "OpenAI",
+    "title": "Reasoning best practices",
+    "url": "https://developers.openai.com/api/docs/guides/reasoning-best-practices",
+    "context": "推論モデルは内部で推論を行うため、'ステップバイステップで考えて'のような詳細なChain of Thoughtプロンプトは不要と明言"
+  },
+  {
+    "id": "deepseek-r1-2025",
+    "author": "DeepSeek-AI",
+    "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2501.12948",
+    "published": "2025-01-22",
+    "context": "few-shotプロンプトがR1の性能を下げ、ゼロショットで問題をそのまま提示した方が良い結果になると報告"
+  }
+]
